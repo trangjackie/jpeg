@@ -1,6 +1,6 @@
 /*****************************************************************
 	FsDCT_line.v
-	Fast integer FDCT and IDCT function for 8x8 block
+	Fast integer FDCT and IDCT function for 8x8 block áv
 *****************************************************************/
 
 /************ FsDCT row/column **************************/
